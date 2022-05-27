@@ -1,4 +1,4 @@
-# CS569 Homework 04
+# CS569 Homework 05
 ## Angular Change Detection
 The application has the following components:  
 * AppComponent (root)
